@@ -30,7 +30,6 @@
     <thead>
         <th>ID</th>
         <th>Name</th>
-        <th>Surname</th>
         <th>Email</th>
     </thead>
 <tbody>
@@ -40,7 +39,6 @@
     <tr>
        <td> <?= $user['id'] ?> </td>
         <td> <?= $user['name'] ?> </td>
-        <td> <?= $user['surname'] ?> </td>
         <td> <?= $user['email'] ?></td>
         <td><?= "<a href='delete.php?id=$user[id]'> Delete </a> " ?></td>
     </tr>
