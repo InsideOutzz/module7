@@ -61,7 +61,7 @@
 <main class="form-signin">
   <form action="add.php" method="post">
     <img class="mb-4" src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">
-    <h1 class="h3 mb-3 fw-normal">Log In</h1>
+    <h1 class="h3 mb-3 fw-normal">Sign In</h1>
 
     <div class="form-floating">
       <input type="text" class="form-control" id="floatingInput" placeholder="Emri" name="emri">
